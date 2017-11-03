@@ -1,5 +1,5 @@
 # generator-angular2
-Yeoman generator that will provide you with a complete structure of angular2 app as well as basic starting files
+This generator will provide you with a complete structure of angular2 app as well as basic starting files
 
 Steps to start your first angular2 app
 Pre-requisites
